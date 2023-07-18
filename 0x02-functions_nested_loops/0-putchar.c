@@ -1,13 +1,12 @@
 #include "main.h"
-
 /**
- * main - _putcher
- *
- * Return: Always 0.
+ * main - print _putchar
+ * Return: 0
  */
+
 int main(void)
 {
-    printf(int _putcher \n);
-    return (0);
-    
 
+printf(_putchar'\n');
+return (0);
+}
